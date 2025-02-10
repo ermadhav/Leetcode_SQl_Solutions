@@ -23,6 +23,7 @@ This repository contains a collection of **SQL queries** for various database op
 
 ### 📂 **Directory Structure:**  
 
+- ProblemNumber.sql
 
 ---  
 
