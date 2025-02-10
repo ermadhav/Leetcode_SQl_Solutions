@@ -22,3 +22,19 @@ This repository contains a collection of **SQL queries** for various database op
 ---  
 
 ### 📂 **Directory Structure:**  
+
+
+---  
+
+### 🤝 **Contributing:**  
+Feel free to suggest improvements, share new queries, or fix any issues by opening a **pull request** or **issue**.  
+
+---  
+
+### 🌟 **Let's Connect:**  
+- **LinkedIn:** www.linkedin.com/in/ermadhav  
+- **Email:** contact.madhavtiwari@gmail.com  
+
+If you find this repository helpful, don’t forget to **⭐ Star** it!  
+
+Happy Querying! 🚀✨  
